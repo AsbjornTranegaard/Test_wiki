@@ -1,5 +1,5 @@
 """Importing packages"""
-
+#mon dette virker
 from bs4 import BeautifulSoup, NavigableString
 import urllib3
 import requests
